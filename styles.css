@@ -3,15 +3,13 @@
             border-collapse: collapse;
         }
         caption {
-            font-size: 18px;
             font-weight: bold;
-            margin-bottom: 10px;
+            /* margin-bottom: 10px; */
         }
-        th, td {
+        table,th,tr, td {
             border: 1px solid black;
-            padding: 3px;
             /* text-align: center; */
         }
-        th {
+        /* th {
             background-color: #f2f2f2;
-        }
+        } */
